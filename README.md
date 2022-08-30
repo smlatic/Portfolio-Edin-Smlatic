@@ -20,18 +20,18 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molest
 
 ## GitHub portfolio :briefcase:
 
-| Repo                           | Description                        |
-| ------------------------------ | ---------------------------------- |
-| [Deep learning][dl]            | deep learning course               |
-| [Machine learning][ml]         | traditional machine learning       |
-| [Data analysis][data_analysis] | course focusing on Pandas          |
-| [Python programming][pytprog]  | introduction course                |
-| [Linear algebra][lin_alg]      | introductory linear algebra course |
+| Repo                                | Description                        |
+| ------------------------------      | ---------------------------------- |
+| [Google Automation with Python][go] | Google IT Automation with Python Professional Certificate              |
+| [Machine learning-ITHS][ml-iths]    | traditional machine learning       |
+| [Data analysis][data_analysis]      | course focusing on Pandas          |
+| [Python programming][pytprog]       | introduction course                |
+| [Linear algebra][lin_alg]           | introductory linear algebra course |
 
 <!-- | [Programmering 1][prog1]           | first programming course (gymnasiet)   | -->
 
-[dl]: https://github.com/kokchun/Deep-learning-AI21
-[ml]: https://github.com/kokchun/Maskininlarning-AI21
+[go]: https://github.com/smlatic/Google-it-automation-ES
+[ml-iths]: https://github.com/kokchun/Maskininlarning-AI21
 [pytprog]: https://github.com/kokchun/Programmering-med-Python
 [data_analysis]: https://github.com/kokchun/Databehandling
 [prog1]: https://github.com/NTI-Kronhus/TE19CD-PRRPRR01
