@@ -47,7 +47,7 @@ Repos that relate to my free time, ongoing and upcoming.
 [go]: https://github.com/smlatic/Google-it-automation-ES
 [ml-ztm]: https://github.com/smlatic/ml_bootcamp
 [god]: https://www.coursera.org/professional-certificates/google-data-analytics
----
+
 
 ---
 
