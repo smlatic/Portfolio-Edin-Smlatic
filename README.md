@@ -2,55 +2,50 @@
 
 # Edin Smlatic :robot:  # Under Constrution
 
-## Who am I
-
+### Who am I
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.
 
-## What im studying.. interests.. etc
-
+### What im studying.. interests.. etc
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.
 
 
-## Goals
-
+### Goals
 Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum numquam blanditiis harum quisquam eius sed odit fugiat iusto fuga praesentium optio, eaque rerum! Provident similique accusantium nemo autem.
-
 
 ---
 
 # GitHub portfolio :briefcase:
-## IT-Högskolan (Currently Enrolled)
-Repos are related to courses done at ITHS - "Utvecklare inom AI och Maskininlärning"
+## IT-Högskolan :mortar_board: (Currently Enrolled)
+Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 
 | Repo                                | Description                        |
 | ------------------------------      | ---------------------------------- |
-| [Python programming][pytprog]       | introduction course - *Ongoing      |
-| [Linear algebra][lin_alg]           | introductory linear algebra course |
-| [Data analysis][data_analysis]      | course focusing on Pandas          |
-| [Machine learning-ITHS][ml-iths]    | Traditional machine learning       |
-| [Deep learning][dl]            | deep learning course               |
+| [Python programming][pytprog]       | Introduction course     |
+| [Linear algebra][lin_alg]           | Introductory Linear Algebra  |
+| [Data analysis][data_analysis]      | Course focusing on Pandas          |
+| [Machine learning-ITHS][ml-iths]    | Traditional Machine Learning       |
+| [Deep learning][dl]            | Deep Learning Course               |
 
 
 [ml-iths]: https://github.com/kokchun/Maskininlarning-AI21
-[pytprog]: https://github.com/kokchun/Programmering-med-Python
+[pytprog]: https://github.com/smlatic/Python-Edin-Smlatic
 [data_analysis]: https://github.com/kokchun/Databehandling
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
 [dl]: https://github.com/kokchun/Deep-learning-AI21 
 
----
 
-## Self-Study Repos
+## Self-Study Repos :computer:
 Repos that relate to my free time, ongoing and upcoming.
 
 | Repo                    | Description                                   |
 | ------------------------------ | --------------------------------------------- |
-| [Google Automation with Python][go] | Python, Linux, Git/github, Cloud, Troubleshooting, Scripts  - *Paused (5/6) |
+| [Google Automation with Python][go] | Python, Linux, Git/github, Cloud, Troubleshooting, Scripts. (5/6) |
 | [Machine learning-ZTM][ml-ztm]      | Pandas, Numpy, Matplotlib. Sci-kit & TensorFlow - *Ongoing         |
 | [Google Data Analytics][god]        | Spreadsheets, SQL, R programming, TableauPlanned - Not started    |
 
 
 [go]: https://github.com/smlatic/Google-it-automation-ES
-[ml-ztm]: https://github.com/kokchun/Maskininlarning-AI21
+[ml-ztm]: https://github.com/smlatic/ml_bootcamp
 [god]: https://www.coursera.org/professional-certificates/google-data-analytics
 ---
 
