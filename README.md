@@ -24,7 +24,7 @@ Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia, molest
 | ------------------------------      | ---------------------------------- |
 | [Google Automation with Python][go] | Google IT Automation with Python Professional Certificate              |
 | [Machine learning-ITHS][ml-iths]    | traditional machine learning       |
-| [Data analysis][data_analysis]      | course focusing on Pandas          |
+| [Machine learning-ZTM][ml-ztm]      | ML bootcamp          |
 | [Python programming][pytprog]       | introduction course                |
 | [Linear algebra][lin_alg]           | introductory linear algebra course |
 
