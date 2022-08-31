@@ -34,7 +34,7 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 [dl]: https://github.com/kokchun/Deep-learning-AI21 
 
 
-## Self-Study Repos :computer:
+## Self-Study :computer:
 Repos that relate to my free time, ongoing and upcoming.
 
 | Repo                    | Description                                   |
