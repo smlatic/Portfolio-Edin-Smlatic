@@ -19,17 +19,17 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 | Repo                                | Description                        |
 | ------------------------------      | ---------------------------------- |
 | [Python programming][pytprog]       | Introduction course     |
-| [Linear algebra][lin_alg]           | Introductory Linear Algebra  |
-| [Data analysis][data_analysis]      | Course focusing on Pandas          |
-| [Machine learning-ITHS][ml-iths]    | Traditional Machine Learning       |
-| [Deep learning][dl]            | Deep Learning Course               |
+| [Linear algebra]<!--[lin_alg]-->           | Introductory Linear Algebra  |
+| [Data analysis]<!--[data_analysis]-->      | Course focusing on Pandas          |
+| [Machine learning-ITHS]<!--[ml-iths]-->    | Traditional Machine Learning       |
+| [Deep learning]<!--[dl]-->           | Deep Learning Course               |
 
 
-[ml-iths]: https://github.com/kokchun/Maskininlarning-AI21
 [pytprog]: https://github.com/smlatic/Python-Edin-Smlatic
+<!-- [ml-iths]: https://github.com/kokchun/Maskininlarning-AI21
 [data_analysis]: https://github.com/kokchun/Databehandling
 [lin_alg]: https://github.com/kokchun/Linjar-algebra-21
-[dl]: https://github.com/kokchun/Deep-learning-AI21 
+[dl]: https://github.com/kokchun/Deep-learning-AI21  -->
 
 
 ## Self-Study :computer:
