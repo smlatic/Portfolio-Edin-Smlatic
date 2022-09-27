@@ -6,7 +6,7 @@ Welcome to my profile!
 
 I'm an aspiring ML student currently enrolled at IT-Hogskolan Gothenburg. Previously I have worked as a landsurveyor specialized in construction.
 
- I am looking for an internship in ML/Data science where I can further develop and grow.
+I am looking for an internship 2023, in ML/Data science where I can further develop and grow.
 
 Thanks for visiting and I'd love to connect!
 
@@ -39,7 +39,7 @@ Repos that relate to my free time, ongoing and upcoming.
 | ------------------------------ | --------------------------------------------- |
 | [Google Automation with Python][go] | Python, Linux, Git/github, Cloud, Troubleshooting, Scripts. (5/6) |
 | [Machine learning-ZTM][ml-ztm]      | Pandas, Numpy, Matplotlib. Sci-kit & TensorFlow - *Ongoing         |
-| [Google Data Analytics][god]        | Spreadsheets, SQL, R programming, Tableau - Not started    |
+
 
 
 [go]: https://github.com/smlatic/Google-it-automation-ES
