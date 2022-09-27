@@ -6,7 +6,7 @@ Welcome to my profile!
 
 I'm an aspiring ML student currently enrolled at IT-Hogskolan Gothenburg. Previously I have worked as a landsurveyor specialized in construction.
 
-I am looking for an internship 2023, in ML/Data science where I can further develop and grow.
+I am looking for an internship 2023 in ML/Data science where I can further develop and grow.
 
 Thanks for visiting and I'd love to connect!
 
