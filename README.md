@@ -20,7 +20,7 @@ Repos related to courses at ITHS - "Utvecklare inom AI och Maskininlärning"
 | ------------------------------      | ---------------------------------- |
 | [Python programming][pytprog]       | Introduction course     |
 | [Linear algebra]<!--[lin_alg]-->           | Introductory Linear Algebra  |
-| [Data analysis][data_analysis]     | Course focusing on Pandas, Plotly and more          |
+| [Data analysis][data_analysis]     | Course focusing on Pandas, Plotly, Dash    |
 | [Machine learning-ITHS]<!--[ml-iths]-->    | Traditional Machine Learning       |
 | [Deep learning]<!--[dl]-->           | Deep Learning Course               |
 
